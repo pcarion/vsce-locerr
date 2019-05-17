@@ -1,6 +1,6 @@
 {
 	"name": "locerr",
-	"displayName": "LocErr",
+	"displayName": "Locerr",
 	"description": "quickly find where your log messages come from",
 	"version": "0.0.1",
 	"engines": {
@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:extension.locerr"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [{
-			"command": "extension.helloWorld",
-			"title": "Hello World"
+			"command": "extension.locerr",
+			"title": "Locerr"
 		}]
 	},
 	"scripts": {
