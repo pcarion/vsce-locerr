@@ -1,5 +1,6 @@
 {
 	"name": "locerr",
+	"publisher": "pcarion",
 	"displayName": "Locerr",
 	"description": "quickly find where your log messages come from",
 	"version": "0.0.1",
